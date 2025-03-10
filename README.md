@@ -2,15 +2,14 @@
 Cuadro de mandos de anuncios de venta de coches - Proyecto sprint 7 TripleTen 
 Esta aplicación web proporciona un cuadro interactivo para explorar un conjunto de datos de anuncios de venta de coches.
 
-# Funcionalidades
+Esta aplicación web fue desarrollada para facilitar el análisis exploratorio de un conjunto de datos de anuncios de venta de coches. Permite a los usuarios visualizar rápidamente patrones y tendencias en los datos a través de visualizaciones interactivas.
 
-* **Histograma de odómetro**: Muestra la distribución de los valores de odómetro en el conjunto de datos.
-* **Diagrama de dispersión de año del modelo vs precio**: Muestra la relación entre el año del modelo y el precio de los vehículos.
+**Prueba la aplicación aquí:** [https://proyecto-1-sq61.onrender.com]
 
-## Cómo usar
+## Visualizaciones disponibles
 
-1.  Ejecuta la aplicación Streamlit usando el comando `streamlit run app.py`.
-2.  Marca las casillas de verificación para seleccionar las visualizaciones que deseas ver.
+* **Histograma de la columna "odometer"**: Para entender la distribución del kilometraje.
+* **Diagrama de dispersión "model_year" vs "price"**: Para analizar la relación entre el año del modelo y el precio.
 
 ## Tecnologías utilizadas
 
