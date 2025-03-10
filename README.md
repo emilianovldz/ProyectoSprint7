@@ -1,5 +1,3 @@
-# Proyecto
-Cuadro de mandos de anuncios de venta de coches - Proyecto sprint 7 TripleTen 
 Esta aplicación web proporciona un cuadro interactivo para explorar un conjunto de datos de anuncios de venta de coches.
 
 Esta aplicación web fue desarrollada para facilitar el análisis exploratorio de un conjunto de datos de anuncios de venta de coches. Permite a los usuarios visualizar rápidamente patrones y tendencias en los datos a través de visualizaciones interactivas.
@@ -16,3 +14,4 @@ Esta aplicación web fue desarrollada para facilitar el análisis exploratorio d
 * Streamlit
 * pandas
 * Plotly Express
+* Render
