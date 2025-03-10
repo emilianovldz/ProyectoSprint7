@@ -15,6 +15,6 @@ if build_histogram:
     st.plotly_chart(fig, use_container_width=True)
 
 if build_scatter:
-    st.write('Construyendo un diagrama de dispersión para año vs precio')
-    fig = px.scatter(car_data, x="year", y="price")
+    st.write('Construyendo un diagrama de dispersión para model_year vs precio')
+    fig = px.scatter(car_data, x="model_year", y="price")
     st.plotly_chart(fig, use_container_width=True)
